@@ -1,1 +1,13 @@
+1)Which of the following examples is/are a sample application of Logistic Regression? (select all that apply)
+The probability that a person has a heart attack within a specified time period using person's age and sex
+Likelihood of a homeowner defaulting on a mortgage.
+Customer's propensity to purchase a product or halt a subscription in marketing applications.
+
+2)Which one is TRUE about the kNN algorithm?
+kNN algorithm can be used to estimate values for a continuous target.   
+
+3)What is "information gain" in decision trees? 
+It is the entropy of a tree before split minus weighted entropy after split by an attribute.
+
+
 
